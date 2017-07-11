@@ -1,0 +1,206 @@
+ 
+.btn_app {
+    color: #fff !important;
+    background: #43B02A;
+    margin: 0px 0px 30px 0px;
+    display: inline-block;
+    padding: 20px 150px;
+    }
+    .bg-img_sr {
+    background-size: cover!important;
+    background-position: center top;
+    background-repeat: no-repeat;
+    }
+    .bg-img_sr {
+    background-image: url(../img/full/UNF_Bn_super_recarga.jpg)
+    }
+    .redes_light {
+     height: 20px; 
+    }
+    #generico h2 span, .tickets h2 span{
+    font-size: 30px;
+    color: #00A9CE;
+    }
+    .tickets p {
+    background: #00A9CE; 
+    color: #fff; 
+    padding: 15px;  
+    font-size: 22px;
+    margin: 0px 0px 1px 0px;
+    }
+    .tickets .th {
+    background: #FFC600;   
+    font-size: 20px;
+    padding: 10px 15px;
+    }
+    .tickets .td1 {
+    background: #F2F2F2;   
+    font-size: 20px;
+    padding: 13px;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 2px solid #fff;
+    border-top: none;
+    }
+    .tickets .td2 {
+    background: #CCCCCC;   
+    font-size: 20px;
+    padding: 13px;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 2px solid #fff;
+    border-top: none;
+    }
+ .recarga_dark {
+    background: #404042;
+    color: #FFC600;
+    padding: 13px 0px;
+    font-size: 18px;
+    }
+    .mt_fff {border-top: 4px solid #fff;}
+    .mr_fff {border-right: 4px solid #fff;}
+    .mb_fff {border-bottom: 4px solid #fff;}
+    .ml_fff {border-left: 4px solid #fff;}
+    .m_fff {border: 4px solid #fff; border-left: none;
+    }
+    .recarga_gris, .recarga_amarillo, .recarga_azul, 
+    .recarga_naranja, .recarga_snd, .recarga_black {
+    font-size: 20px; padding: 10px 15px;
+    }
+    .recarga_verde {font-size: 24px; padding: 25px 15px;
+    }
+    .recarga_gris {background: #CAC1BA;}
+    .recarga_amarillo {background: #FFC600;}
+    .recarga_verde {background: #43B02A;}
+    .recarga_azul {background: #00A9CE;}
+    .recarga_naranja {background: #FF970D;}
+    .recarga_black {background: #404042; min-height: 60px;}
+    .recarga_black p{padding: 5px 0px 0px;background: none;}
+    .recarga_snd {background: #B2A49C;
+    }
+    .ptb-40 {margin-top: 40px; margin-bottom: 40px;}+
+    .pt-40 {margin-top: 40px;
+    }
+    .chip-tiendas {padding: 20px 20px 0px;
+    }
+    .cross-banner {
+    height: 230px;
+    padding-left: 17%;
+    }
+    .owl-carousel .owl-controls .owl-page span {
+    width: 10px;
+    height: 10px;
+    float: left;
+    }
+    .image-slider .owl-controls .owl-pagination {
+    margin-left: 48%;
+    }
+    .owl-carousel .owl-controls .owl-page.active span {border: 2px solid #FFF; background: #fff;
+    }
+    .full-wraper {
+    bottom: 26%;
+    right: 19%;
+    }
+    .pt-40{
+     padding-top: 40px;   
+    }
+    @media all and (max-width:450px) {
+.bg-img_sr {
+    background-size: auto 100% !important;
+    background-position: -350px 50px !important;
+}
+   .chip-tiendas {padding: 10px 20px;}
+   .cross-banner {padding-left: 0px;}
+
+   .btn_app {
+    padding: 20px 30px;
+}
+.pttop {padding-top: 0px !important;}
+
+}
+    }
+   
+    </style>
+
+<body class="full-intro">
+
+
+</head>
+
+
+    <!-- Sidemenu -->
+    <!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TQ25FR"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TQ25FR');</script>
+<!-- End Google Tag Manager -->
+
+<section class="side-menu cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="menudelao">
+    <a class="menu-close toggle-menu menu-right push-body"><i class="ion ion-android-close" id="ceerandoside"></i></a>
+    <!--<h5 class="white">Regístrate y nos comunicaremos contigo</h5>
+    <div class="sign-in">
+        <input class="input-sm form-full" type="email" aria-required="true" id="email" name="email" placeholder="Correo electrónico" value="" />
+        <input type="submit" class="btn btn-md btn-color-b form-full" value="ENVÍAR" />
+    </div>-->
+    <!--Empiezan datos para atención a clientes-->
+
+    <style type="text/css">
+        .btn-autoserv {
+            color: #2D2D2D !important;
+            background: #FFC600;
+            border: none;
+            font-size: 15px !important;
+            margin: 10px 0px;
+        }
+
+        .btn-autoserv i {
+            color: #333 !important;
+        }
+
+        .btn-autoserv:hover {
+            color: #fff !important;
+            background: #00A9CE;
+        }
+
+        .btn-autoserv:hover i {
+            color: #fff !important;
+        }
+
+        .btn-chat {
+            color: #333 !important;
+            background: #43B02A;
+            border: none;
+            font-size: 15px !important;
+            margin: 10px 0px;
+        }
+
+        .btn-chat i {
+            color: #333 !important;
+        }
+
+        .btn-chat:hover {
+            color: #fff !important;
+            background: #00A9CE;
+        }
+
+        .btn-chat:hover i {
+            color: #fff !important;
+        }
+
+        *:focus{
+            border: 2px solid #0099FF;
+        }
+
